@@ -1,6 +1,7 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
-  "VITE_ORDERLY_BROKER_NAME": "Phoebe",
+  "VITE_ORDERLY_BROKER_NAME": "AnnieDEX",
+  "VITE_BROKER_EOA_ADDRESS": "0x0c8bf7140e23a10fbdf6144addb0130a169fc32a",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "42161,10,8453,5000,1,56,1329,43114,900900900,2818,146,80094,1514,34443,98866,2741",
@@ -13,12 +14,13 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "Phoebe",
+  "VITE_APP_NAME": "AnnieDEX",
   "VITE_APP_DESCRIPTION": "A powerful Dex powered by Orderly & Annie",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Rewards,Leaderboard,Vaults,Swap",
   "VITE_CUSTOM_MENUS": "",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/Orderly_Annie",
   "VITE_DISCORD_URL": "",
@@ -34,5 +36,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,it,tr,id,ru,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": ""
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "",
+  "VITE_ANALYTICS_SCRIPT": ""
 };
